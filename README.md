@@ -12,3 +12,8 @@ me go code every day! my LC Badges
 <img src="https://github.com/Mshashikanth1/leet-code/assets/57630057/aba9b9d5-aa1b-45e6-8043-2f5e8670ce09" width="100" />
 <img src="https://github.com/Mshashikanth1/leet-code/assets/57630057/86a7f4c9-c4c9-45df-9910-551bce5236a1" width="100" />
 <img src="https://github.com/user-attachments/assets/ed736b62-9e97-4f38-98ee-51f69bc414f7" width="100" />
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mallepally-shashi-kanth-varma-82989b258" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mallepally-shashi-kanth-varma-82989b258?trk=profile-badge">Mallepally shashi kanth varma</a></div>
+              
